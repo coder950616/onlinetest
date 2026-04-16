@@ -46,5 +46,5 @@ uvicorn main:app --reload
 
 ### Check History
 1. Open the service in browser at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-2. Click **Try it out** on /check_history
+2. Click **Try it out** on /history
 3. Click **Execuate**, then you can get history of compressed images
